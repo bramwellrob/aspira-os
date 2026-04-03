@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://aspiraglobal.biz/wp-content/uploads/2026/03/Aspira-OS-Full-Platform.png" alt="Aspira OS Platform" width="70%" />
+  <img src="https://aspiraglobal.biz/wp-content/uploads/2026/03/Platform.png" alt="Aspira OS Platform" width="65%" />
 </p>
 
 # Aspira OS
